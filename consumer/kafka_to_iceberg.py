@@ -1,5 +1,4 @@
 import json
-import os
 
 import pyarrow as pa
 from confluent_kafka import Consumer
